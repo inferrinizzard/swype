@@ -1,0 +1,34 @@
+version: 2.9.3
+apkFileName: com.nuance.swype.trial_3.2.4.3020400.50699-3020400_minAPI19.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 19
+  targetSdkVersion: 24
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 3020400
+  versionName: 3.2.4.3020400.50699
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  build-data.properties: 8
+  bvt/AndroidManifest.xml: 8
+  com/fasterxml/jackson/core/json/VERSION.txt: 8
+  com/google/api/client/googleapis/google.jks: 8
+  jsr305_annotations/Jsr305_annotations.gwt.xml: 8
+  main/AndroidManifest.xml: 8
+doNotCompress:
+- resources.arsc
+- mp3
+- assets/buildsettings.dat
+- assets/license.dat
+- png
+- wav
+- ogg
