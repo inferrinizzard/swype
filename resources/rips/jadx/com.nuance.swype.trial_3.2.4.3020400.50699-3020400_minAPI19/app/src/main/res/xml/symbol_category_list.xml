@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<emojiCategories xmlns:ns="http://schemas.android.com/apk/res-auto">
+    <category
+        ns:categoryItems="@null"
+        ns:categoryName="recent"
+        ns:categoryIcon="?attr/chineseSymbolCategoryIconRecent"/>
+    <category
+        ns:arrayType="strings"
+        ns:categoryItems="@array/english_symbol"
+        ns:categoryName="english"
+        ns:categoryIcon="?attr/chineseSymbolCategoryIconEnglish"/>
+    <category
+        ns:arrayType="strings"
+        ns:categoryItems="@array/chinese_symbol"
+        ns:categoryName="chinese"
+        ns:categoryIcon="?attr/chineseSymbolCategoryIconChinese"/>
+    <category
+        ns:arrayType="strings"
+        ns:categoryItems="@array/chinese_emotion"
+        ns:categoryName="emotion"
+        ns:categoryIcon="?attr/chineseSymbolCategoryIconEmotion"/>
+    <category
+        ns:arrayType="strings"
+        ns:categoryItems="@array/chinese_network"
+        ns:categoryName="network"
+        ns:categoryIcon="?attr/chineseSymbolCategoryIconNetwork"/>
+    <category
+        ns:arrayType="strings"
+        ns:categoryItems="@array/picture_symbols"
+        ns:categoryName="picture"
+        ns:categoryIcon="?attr/chineseSymbolCategoryIconPicture"/>
+</emojiCategories>

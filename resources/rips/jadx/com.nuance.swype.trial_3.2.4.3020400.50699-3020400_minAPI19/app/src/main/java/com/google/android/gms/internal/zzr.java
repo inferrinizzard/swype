@@ -1,0 +1,20 @@
+package com.google.android.gms.internal;
+
+/* loaded from: classes.dex */
+public class zzr extends Exception {
+    long zzab;
+    public final zzi zzbi;
+
+    public zzr() {
+        this.zzbi = null;
+    }
+
+    public zzr(zzi zziVar) {
+        this.zzbi = zziVar;
+    }
+
+    public zzr(Throwable th) {
+        super(th);
+        this.zzbi = null;
+    }
+}

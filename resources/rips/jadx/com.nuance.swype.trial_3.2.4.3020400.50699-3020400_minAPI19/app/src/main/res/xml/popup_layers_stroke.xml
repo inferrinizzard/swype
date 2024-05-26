@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeyboardEx xmlns:ns="http://schemas.android.com/apk/res-auto"
+    ns:keyWidth="15%p"
+    ns:keyTextColor="@color/color_popup_text_menu"
+    ns:keyboardForcedHeight="-1px"
+    ns:keyBackground="@drawable/btn_keyboard_popup_key"
+    ns:keyContentBaseline="@dimen/key_content_no_baseline">
+    <Row ns:rowEdgeFlags="bottom|top">
+        <Key
+            ns:keyEdgeFlags="left"
+            ns:keyOutputText="8"
+            ns:keyLabel="8"
+            ns:keyContentBaseline="@dimen/key_content_no_baseline"/>
+        <include ns:src="@xml/emoji_key_right"/>
+    </Row>
+</KeyboardEx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_text_size">21dp</dimen>
+    <dimen name="key_text_size_5row">19dp</dimen>
+    <dimen name="key_text_size_small">20dp</dimen>
+    <dimen name="key_label_text_size">18dp</dimen>
+    <dimen name="key_label_text_size_5row">17dp</dimen>
+    <dimen name="key_label_text_size_small">17dp</dimen>
+    <dimen name="key_text_size_large">25dp</dimen>
+    <dimen name="theme_category_title_size">19dp</dimen>
+    <dimen name="bpmf_keytext_size">16dp</dimen>
+    <dimen name="cangjie_keytext_size">16dp</dimen>
+    <dimen name="hand_writing_mode_text_size">14dp</dimen>
+    <dimen name="japanese_flicker_menu_key_text_size">23dp</dimen>
+    <dimen name="key_font_size_jp">16dp</dimen>
+    <dimen name="return_key_text_size">20dp</dimen>
+    <dimen name="speech_recording_label_height">25dp</dimen>
+    <dimen name="theme_grid_view_name_mini_height">38dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nuance.swype.widget.directional.DirectionalRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="?attr/startupHeaderBackgroundColor"
+    android:padding="?attr/containerPadding"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/firstStartContent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</com.nuance.swype.widget.directional.DirectionalRelativeLayout>

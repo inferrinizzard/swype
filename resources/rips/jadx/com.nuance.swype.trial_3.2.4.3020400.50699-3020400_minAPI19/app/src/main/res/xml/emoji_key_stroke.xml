@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:ns="http://schemas.android.com/apk/res-auto">
+    <Key
+        ns:altTextGravity="right"
+        ns:codes="@integer/keycode_emoticon"
+        ns:popupKeyboard="@xml/popup_layers_stroke"
+        ns:iconPreview="?attr/emojiIconPopupKeypress"
+        ns:altKeyLabel="8"
+        ns:keyIcon="?attr/emojiIconKey"
+        ns:keyIconRecolor="?attr/iconRecolorEmoji"
+        ns:keyboardSettings="emoji"
+        ns:keyGroup="@+id/emoji_key"
+        ns:keyContentBaseline="@dimen/key_content_no_baseline"/>
+    <Key
+        ns:altTextGravity="right"
+        ns:codes="@integer/keycode_smile_no_resize"
+        ns:popupKeyboard="@xml/popup_layers_stroke"
+        ns:keyOutputText=":-)"
+        ns:altKeyLabel="8"
+        ns:keyIcon="?attr/keyboardEmoticonPrimary"
+        ns:keyIconRecolor="?attr/iconRecolorEmoticon"
+        ns:keyGroup="@+id/emoji_key"
+        ns:keyContentBaseline="@dimen/key_content_no_baseline"/>
+</merge>

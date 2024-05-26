@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languageflavors>
+    <language
+        name="Chinese_CN"
+        id="0xe1"
+        flavor="GB13000_xt9_big"/>
+    <language
+        name="Chinese_HK"
+        id="0xe2"
+        flavor="Big5HKSCS_bpmf_pinyin_CJ_xt9_big"/>
+    <language
+        name="Chinese_TW"
+        id="0xe0"
+        flavor="Big5HKSCS_bpmf_pinyin_CJ_xt9_bigTW"/>
+</languageflavors>
