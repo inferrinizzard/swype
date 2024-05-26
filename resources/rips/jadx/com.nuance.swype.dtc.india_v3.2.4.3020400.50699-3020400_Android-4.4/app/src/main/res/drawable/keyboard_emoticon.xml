@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_last="true">
+        <bitmap android:src="?attr/keyboardEmoticonPrimary"/>
+    </item>
+    <item android:state_middle="true">
+        <bitmap android:src="?attr/keyboardEmoticonSecondary"/>
+    </item>
+    <item>
+        <bitmap android:src="?attr/keyboardEmoticonPrimary"/>
+    </item>
+</selector>

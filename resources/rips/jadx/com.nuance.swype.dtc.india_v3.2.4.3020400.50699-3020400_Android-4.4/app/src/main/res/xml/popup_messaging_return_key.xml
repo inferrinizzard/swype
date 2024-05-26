@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeyboardEx xmlns:ns="http://schemas.android.com/apk/res-auto"
+    ns:keyWidth="16%p"
+    ns:keyTextSize="@dimen/popup_preview_key_label_size"
+    ns:keyTextColor="@color/color_popup_text"
+    ns:keyboardForcedHeight="-1px"
+    ns:keyBackground="@drawable/btn_keyboard_popup_key">
+    <Row ns:rowEdgeFlags="top">
+        <Key
+            ns:codes="@integer/keycode_enter"
+            ns:keyEdgeFlags="left"
+            ns:keyIcon="?attr/symKeyboardReturn"
+            ns:accessibilitylabel="@string/accessibility_enter"
+            ns:keyContentBaseline="@dimen/key_content_no_baseline"/>
+        <include ns:src="@xml/emoji_key_right"/>
+    </Row>
+</KeyboardEx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:orientation="vertical"
+        android:id="@+id/swypeHeader"
+        android:background="#ff2e2e2e"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginBottom="12dp">
+        <ImageView
+            android:id="@+id/swypeLogo"
+            android:paddingTop="26dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/startup_logo_heading"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"/>
+        <ImageView
+            android:id="@+id/swypeProgressBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/startup_progress_6"
+            android:scaleType="fitXY"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+</LinearLayout>

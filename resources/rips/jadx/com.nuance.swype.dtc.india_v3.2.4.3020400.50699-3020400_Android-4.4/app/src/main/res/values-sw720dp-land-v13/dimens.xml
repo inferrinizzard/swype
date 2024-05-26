@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_text_size">31dp</dimen>
+    <dimen name="key_text_size_5row">30dp</dimen>
+    <dimen name="key_text_size_small">30dp</dimen>
+    <dimen name="key_label_text_size_5row">22dp</dimen>
+    <dimen name="key_label_text_size_small">22dp</dimen>
+    <dimen name="key_text_size_large">36dp</dimen>
+    <dimen name="alpha_hwr_pad_height">258dp</dimen>
+    <dimen name="bpmf_key_height">68.8dp</dimen>
+    <dimen name="chinese_symbol_mini_key_height">57dp</dimen>
+    <dimen name="cjk_hwr_pad_height">258dp</dimen>
+    <dimen name="cjk_hwr_vertical_candidates_list_height">258dp</dimen>
+    <dimen name="cjk_hwr_vertical_candidates_list_width">54dp</dimen>
+    <dimen name="key_content_no_baseline">0dp</dimen>
+    <dimen name="key_height">86dp</dimen>
+    <dimen name="key_height_5row">69dp</dimen>
+    <dimen name="key_label_text_size_large">28dp</dimen>
+    <dimen name="keyboard_forced_height">344dp</dimen>
+    <dimen name="return_key_baseline">0dp</dimen>
+    <dimen name="shift_key_baseline">0dp</dimen>
+    <dimen name="stroke_key_height">86dp</dimen>
+    <dimen name="bubble_pointer_offset">32dp</dimen>
+    <dimen name="popup_preview_key_height_circle">115dp</dimen>
+    <dimen name="startup_dialog_height">550dp</dimen>
+    <dimen name="startup_dialog_width">375dp</dimen>
+    <dimen name="status_bar_height">35dp</dimen>
+    <dimen name="mini_key_height">65dp</dimen>
+    <dimen name="mini_keyboard_forced_height">260dp</dimen>
+</resources>

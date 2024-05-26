@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nuance.swype.input.view.DragFrameWings xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:id="@+id/drag_frame"
+    android:background="?attr/wingsBackground"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="@style/NoPadding">
+    <ImageView
+        android:id="@+id/left_wing"
+        android:layout_width="@dimen/keyboard_wing_width"
+        android:layout_height="match_parent"
+        android:src="?attr/keyboardWingBackground"/>
+    <include layout="@layout/input_layout_main"/>
+    <ImageView
+        android:id="@+id/right_wing"
+        android:background="?attr/wingsBackground"
+        android:layout_width="@dimen/keyboard_wing_width"
+        android:layout_height="match_parent"
+        android:src="?attr/keyboardWingBackground"/>
+</com.nuance.swype.input.view.DragFrameWings>

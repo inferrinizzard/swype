@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nuance.swype.input.chinese.CJKWordListViewContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:id="@+id/cjk_wordListView_container"
+    android:background="?attr/keyboardSuggestStripHandwriting"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.nuance.swype.input.chinese.CJKCandidatesListView
+        android:id="@+id/cjk_candidates"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/candidates_list_height"/>
+</com.nuance.swype.input.chinese.CJKWordListViewContainer>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeyboardEx xmlns:ns="http://schemas.android.com/apk/res-auto"
+    ns:keyTextColor="@color/color_popup_text_menu"
+    ns:keyBackground="@drawable/btn_keyboard_popup_key"
+    ns:keyBorder="?attr/keyboardPopupBorder"
+    ns:keyContentBaseline="@dimen/key_content_no_baseline"/>

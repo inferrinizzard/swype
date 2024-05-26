@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/transparent"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/candidates_list_height">
+    <com.nuance.swype.util.RightAlignedHorizontalScrollView
+        android:scrollbarAlwaysDrawHorizontalTrack="false"
+        android:gravity="right"
+        android:id="@+id/ontopinlinescrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:gravity="right"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:textSize="@dimen/word_candidate_text_size_cjk"
+                android:textColor="?attr/wclCjkChineseInlineTextColor"
+                android:id="@+id/inline_text"
+                android:background="?attr/wclCjkChineseInlineBackgroundImage"
+                android:paddingTop="1dp"
+                android:paddingBottom="1dp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:singleLine="true"
+                android:paddingStart="4dp"
+                android:paddingEnd="4dp"/>
+        </LinearLayout>
+    </com.nuance.swype.util.RightAlignedHorizontalScrollView>
+</FrameLayout>

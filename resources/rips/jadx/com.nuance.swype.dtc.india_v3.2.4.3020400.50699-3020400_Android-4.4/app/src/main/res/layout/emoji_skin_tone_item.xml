@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+    android:paddingEnd="?android:attr/listPreferredItemPaddingEnd">
+    <RadioButton
+        android:id="@+id/rd_skin_btn"
+        android:focusable="false"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/emoji_radio_margin"
+        android:layout_weight="3"/>
+    <com.nuance.swype.input.emoji.SkinToneView
+        android:id="@+id/tv_skin_name"
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="5dp"/>
+</LinearLayout>

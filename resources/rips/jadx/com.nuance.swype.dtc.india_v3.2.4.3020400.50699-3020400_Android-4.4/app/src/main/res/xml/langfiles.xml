@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languagefiles>
+    <language name="Afrikaans">
+        <ldb
+            file="AFlsUN_xt9_MLM.ldb"
+            id="0x136"/>
+        <almldb
+            file="AFlsUN_xt9_ALM3.ldb"
+            id="0x136"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Albanian">
+        <ldb
+            file="SQlsUN_xt9_MLM.ldb"
+            id="0x11c"/>
+        <almldb
+            file="SQlsUN_xt9_ALM3.ldb"
+            id="0x11c"/>
+    </language>
+    <language name="Arabic">
+        <ldb
+            file="ARlsUN_xt9_MLM.ldb"
+            id="0x101"/>
+        <almldb
+            file="ARlsUN_xt9_ALM3.ldb"
+            id="0x101"/>
+        <hdb
+            file="arabic.hdb"
+            id="0x101"/>
+    </language>
+    <language name="Armenian">
+        <ldb
+            file="HYlsUN_xt9_MLM.ldb"
+            id="0x15a"/>
+        <almldb
+            file="HYlsUN_xt9_ALM3.ldb"
+            id="0x15a"/>
+    </language>
+    <language name="Assamese">
+        <ldb
+            file="ASlsUN_xt9_MLM.ldb"
+            id="0x145"/>
+        <almldb
+            file="ASlsUN_xt9_ALM3.ldb"
+            id="0x145"/>
+    </language>
+    <language name="Azerbaijani">
+        <ldb
+            file="AZlsUN_xt9_MLM.ldb"
+            id="0x147"/>
+        <almldb
+            file="AZlsUN_xt9_ALM3.ldb"
+            id="0x147"/>
+    </language>
+    <language name="Basque">
+        <ldb
+            file="EUlsUN_xt9_MLM.ldb"
+            id="0x12d"/>
+        <almldb
+            file="EUlsUN_xt9_ALM3.ldb"
+            id="0x12d"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Belarusian">
+        <ldb
+            file="BElsUN_xt9_MLM.ldb"
+            id="0x123"/>
+        <almldb
+            file="BElsUN_xt9_ALM3.ldb"
+            id="0x123"/>
+    </language>
+    <language name="Bengali">
+        <ldb
+            file="BNlsUN_xt9_MLM.ldb"
+            id="0x14b"/>
+        <almldb
+            file="BNlsUN_xt9_ALM3.ldb"
+            id="0x14b"/>
+    </language>
+    <language name="Bodo">
+        <ldb
+            file="BRXlsUN_xt9.ldb"
+            id="0x19f"/>
+    </language>
+    <language name="Bosnian">
+        <ldb
+            file="BSlsUN_xt9_MLM.ldb"
+            id="0x197"/>
+        <almldb
+            file="BSlsUN_xt9_ALM3.ldb"
+            id="0x197"/>
+    </language>
+    <language name="Bulgarian">
+        <ldb
+            file="BGlsUN_xt9_MLM.ldb"
+            id="0x102"/>
+        <almldb
+            file="BGlsUN_xt9_ALM3.ldb"
+            id="0x102"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Burmese">
+        <ldb
+            file="MYlsUN_xt9_MLM.ldb"
+            id="0x16e"/>
+        <almldb
+            file="MYlsUN_xt9_ALM3.ldb"
+            id="0x16e"/>
+    </language>
+    <language name="Burmese_Zawgyi">
+        <ldb
+            file="MYlsUNzawgyi_xt9_MLM.ldb"
+            id="0x1c4"/>
+        <almldb
+            file="MYlsUNzawgyi_xt9_ALM3.ldb"
+            id="0x1c4"/>
+    </language>
+    <language name="Catalan">
+        <ldb
+            file="CAlsUN_xt9_MLM.ldb"
+            id="0x103"/>
+        <almldb
+            file="CAlsUN_xt9_ALM3.ldb"
+            id="0x103"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Chinese_CN">
+        <ldb
+            file="ZHsbUNps_GB13000_xt9_big.ldb"
+            id="0xe1"/>
+        <almldb
+            file="ZHsbUNps_GB13000_xt9_big_ALM.ldb"
+            id="0xe1"/>
+        <hdb
+            file="cjk_S_gb18030_le.hdb"
+            id="0xe1"/>
+        <traceldb1
+            file="ZHTrace_simp_GB13000_pinyin_big.ldb"
+            id="0x5e1"/>
+        <traceldb2
+            file="ZHTrace_simp_GB13000_doublepinyin_big.ldb"
+            id="0x9e1"/>
+    </language>
+    <language name="Chinese_HK">
+        <ldb
+            file="ZHtbUNps_Big5HKSCS_bpmf_pinyin_CJ_xt9_big.ldb"
+            id="0xe2"/>
+        <almldb
+            file="ZHtbUNps_Big5HKSCS_bpmf_pinyin_CJ_xt9_big_ALM.ldb"
+            id="0xe2"/>
+        <hdb
+            file="cjk_HK_std_std_le.hdb"
+            id="0xe2"/>
+        <traceldb1
+            file="ZHTrace_trad_Big5HKSCS_BPMF_big.ldb"
+            id="0x6e2"/>
+        <traceldb2
+            file="ZHTrace_trad_Big5HKSCS_pinyin_big.ldb"
+            id="0x5e2"/>
+    </language>
+    <language name="Chinese_TW">
+        <ldb
+            file="ZHtbUNps_Big5HKSCS_bpmf_pinyin_CJ_xt9_bigTW.ldb"
+            id="0xe0"/>
+        <almldb
+            file="ZHtbUNps_Big5HKSCS_bpmf_pinyin_CJ_xt9_bigTW_ALM.ldb"
+            id="0xe0"/>
+        <hdb
+            file="cjk_HK_std_std_le.hdb"
+            id="0xe0"/>
+        <traceldb1
+            file="ZHTrace_trad_Big5_pinyin_big.ldb"
+            id="0x5e0"/>
+        <traceldb2
+            file="ZHTrace_trad_Big5_BPMF_big.ldb"
+            id="0x6e0"/>
+    </language>
+    <language name="Croatian">
+        <ldb
+            file="HRlsUN_xt9_MLM.ldb"
+            id="0x159"/>
+        <almldb
+            file="HRlsUN_xt9_ALM3.ldb"
+            id="0x159"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Czech">
+        <ldb
+            file="CSlsUN_xt9_MLM.ldb"
+            id="0x105"/>
+        <almldb
+            file="CSlsUN_xt9_ALM3.ldb"
+            id="0x105"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Danish">
+        <ldb
+            file="DAusUN_xt9_MLM.ldb"
+            id="0x106"/>
+        <almldb
+            file="DAusUN_xt9_ALM3.ldb"
+            id="0x106"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Dogri">
+        <ldb
+            file="DOIlsUN_xt9.ldb"
+            id="0x1a0"/>
+    </language>
+    <language name="Dutch">
+        <ldb
+            file="NLusUN_xt9_MLM.ldb"
+            id="0x113"/>
+        <almldb
+            file="NLusUN_xt9_ALM3.ldb"
+            id="0x113"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Dutch_BE">
+        <ldb
+            file="NLusUNBE_xt9_MLM.ldb"
+            id="0x813"/>
+        <almldb
+            file="NLusUNBE_xt9_ALM3.ldb"
+            id="0x813"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="English">
+        <ldb
+            file="ENubUN_xt9_MLM.ldb"
+            id="0x109"/>
+        <almldb
+            file="ENubUN_xt9_ALM3.ldb"
+            id="0x109"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="English_AU">
+        <ldb
+            file="ENubUNAU_xt9_MLM.ldb"
+            id="0x909"/>
+        <almldb
+            file="ENubUNAU_xt9_ALM3.ldb"
+            id="0x909"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="English_UK">
+        <ldb
+            file="ENubUNUK_xt9_MLM.ldb"
+            id="0x809"/>
+        <almldb
+            file="ENubUNUK_xt9_ALM3.ldb"
+            id="0x809"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Estonian">
+        <ldb
+            file="ETlsUN_xt9_MLM.ldb"
+            id="0x125"/>
+        <almldb
+            file="ETlsUN_xt9_ALM3.ldb"
+            id="0x125"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Farsi">
+        <ldb
+            file="FAlsUN_xt9_MLM.ldb"
+            id="0x129"/>
+        <almldb
+            file="FAlsUN_xt9_ALM3.ldb"
+            id="0x129"/>
+        <hdb
+            file="arabic.hdb"
+            id="0x129"/>
+    </language>
+    <language name="Finnish">
+        <ldb
+            file="FIusUN_xt9_HC_MLM.ldb"
+            id="0x10b"/>
+        <almldb
+            file="FIusUN_xt9_HC_ALM3.ldb"
+            id="0x10b"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="French">
+        <ldb
+            file="FRusUN_xt9_MLM.ldb"
+            id="0x10c"/>
+        <almldb
+            file="FRusUN_xt9_ALM3.ldb"
+            id="0x10c"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="French_CA">
+        <ldb
+            file="FRusUNCA_xt9_MLM.ldb"
+            id="0xc0c"/>
+        <almldb
+            file="FRusUNCA_xt9_ALM3.ldb"
+            id="0xc0c"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="French_CH">
+        <ldb
+            file="FRusUNCH_xt9_MLM.ldb"
+            id="0x100c"/>
+        <almldb
+            file="FRusUNCH_xt9_ALM3.ldb"
+            id="0x100c"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Galician">
+        <ldb
+            file="GLlsUN_xt9_MLM.ldb"
+            id="0x155"/>
+        <almldb
+            file="GLlsUN_xt9_ALM3.ldb"
+            id="0x155"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Georgian">
+        <ldb
+            file="KAlsUN_xt9_MLM.ldb"
+            id="0x160"/>
+        <almldb
+            file="KAlsUN_xt9_ALM3.ldb"
+            id="0x160"/>
+    </language>
+    <language name="German">
+        <ldb
+            file="DEusUN_xt9_MLM.ldb"
+            id="0x107"/>
+        <almldb
+            file="DEusUN_xt9_ALM3.ldb"
+            id="0x107"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="German_CH">
+        <ldb
+            file="DEusUNCH_xt9_MLM.ldb"
+            id="0x807"/>
+        <almldb
+            file="DEusUNCH_xt9_ALM3.ldb"
+            id="0x807"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Greek">
+        <ldb
+            file="ELusUN_xt9_MLM.ldb"
+            id="0x108"/>
+        <almldb
+            file="ELusUN_xt9_ALM3.ldb"
+            id="0x108"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Gujarati">
+        <ldb
+            file="GUlsUN_xt9_MLM.ldb"
+            id="0x157"/>
+        <almldb
+            file="GUlsUN_xt9_ALM3.ldb"
+            id="0x157"/>
+    </language>
+    <language name="Hebrew">
+        <ldb
+            file="HElsUN_xt9_MLM.ldb"
+            id="0x10d"/>
+        <almldb
+            file="HElsUN_xt9_ALM3.ldb"
+            id="0x10d"/>
+        <hdb
+            file="hebrew.hdb"
+            id="0x10d"/>
+    </language>
+    <language name="Hindi">
+        <ldb
+            file="HIlsUN_xt9_MLM.ldb"
+            id="0x139"/>
+        <almldb
+            file="HIlsUN_xt9_ALM3.ldb"
+            id="0x139"/>
+    </language>
+    <language name="Hinglish">
+        <ldb
+            file="HLlbUN_xt9_MLM.ldb"
+            id="0x1d0"/>
+        <almldb
+            file="HLlbUN_xt9_ALM3.ldb"
+            id="0x1d0"/>
+    </language>
+    <language name="Hungarian">
+        <ldb
+            file="HUlsUN_xt9_HC_MLM.ldb"
+            id="0x10e"/>
+        <almldb
+            file="HUlsUN_xt9_HC_ALM3.ldb"
+            id="0x10e"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Icelandic">
+        <ldb
+            file="ISlsUN_xt9_MLM.ldb"
+            id="0x10f"/>
+        <almldb
+            file="ISlsUN_xt9_ALM3.ldb"
+            id="0x10f"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Indonesian">
+        <ldb
+            file="IDlbUN_xt9_MLM.ldb"
+            id="0x121"/>
+        <almldb
+            file="IDlbUN_xt9_ALM3.ldb"
+            id="0x121"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Irish">
+        <ldb
+            file="GAlsUN_xt9_MLM.ldb"
+            id="0x154"/>
+        <almldb
+            file="GAlsUN_xt9_ALM3.ldb"
+            id="0x154"/>
+    </language>
+    <language name="Italian">
+        <ldb
+            file="ITusUN_xt9_MLM.ldb"
+            id="0x110"/>
+        <almldb
+            file="ITusUN_xt9_ALM3.ldb"
+            id="0x110"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Italian_CH">
+        <ldb
+            file="ITusUNCH_xt9_MLM.ldb"
+            id="0x810"/>
+        <almldb
+            file="ITusUNCH_xt9_ALM3.ldb"
+            id="0x810"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Japanese">
+        <ldb
+            file="JAlsUN_xt9_romaji.ldb"
+            id="0x111"/>
+        <hdb
+            file="cjk_J_std_std_le.hdb"
+            id="0x111"/>
+        <traceldb1
+            file="JAlsUN_xt9_kana.ldb"
+            id="0x511"/>
+    </language>
+    <language name="Javanese">
+        <ldb
+            file="JWlsUN_xt9_MLM.ldb"
+            id="0x15f"/>
+        <almldb
+            file="JWlsUN_xt9_ALM3.ldb"
+            id="0x15f"/>
+    </language>
+    <language name="Kannada">
+        <ldb
+            file="KNlsUN_xt9_MLM.ldb"
+            id="0x163"/>
+        <almldb
+            file="KNlsUN_xt9_ALM3.ldb"
+            id="0x163"/>
+    </language>
+    <language name="KashmiriDevanagari">
+        <ldb
+            file="KSlsUNdevanagari_xt9_MLM.ldb"
+            id="0x2364"/>
+        <almldb
+            file="KSlsUNdevanagari_xt9_ALM3.ldb"
+            id="0x2364"/>
+    </language>
+    <language name="Kazakh">
+        <ldb
+            file="KKlsUN_xt9_MLM.ldb"
+            id="0x161"/>
+        <almldb
+            file="KKlsUN_xt9_ALM3.ldb"
+            id="0x161"/>
+    </language>
+    <language name="Khmer">
+        <ldb
+            file="KMlsUN_xt9_MLM.ldb"
+            id="0x12c"/>
+        <almldb
+            file="KMlsUN_xt9_ALM3.ldb"
+            id="0x12c"/>
+    </language>
+    <language name="Kyrgyz">
+        <ldb
+            file="KYlsUN_xt9_MLM.ldb"
+            id="0x166"/>
+        <almldb
+            file="KYlsUN_xt9_ALM3.ldb"
+            id="0x166"/>
+    </language>
+    <language name="KonkaniDevanagari">
+        <ldb
+            file="KOKlsUNdevanagari_xt9.ldb"
+            id="0x23a1"/>
+    </language>
+    <language name="Korean">
+        <ldb
+            file="KOusUN_xt9_MLM.ldb"
+            id="0x112"/>
+        <almldb
+            file="KOusUN_xt9_ALM3.ldb"
+            id="0x112"/>
+        <hdb
+            file="cjk_K_mkt_std_le.hdb"
+            id="0x112"/>
+        <traceldb1
+            file="KOusUN_xt9_CJI_ALM3.ldb"
+            id="0x712"/>
+    </language>
+    <language name="Lao">
+        <ldb
+            file="LOlsUN_xt9_MLM.ldb"
+            id="0x12b"/>
+        <almldb
+            file="LOlsUN_xt9_ALM3.ldb"
+            id="0x12b"/>
+    </language>
+    <language name="Latvian">
+        <ldb
+            file="LVlsUN_xt9_MLM.ldb"
+            id="0x126"/>
+        <almldb
+            file="LVlsUN_xt9_ALM3.ldb"
+            id="0x126"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Lithuanian">
+        <ldb
+            file="LTlsUN_xt9_MLM.ldb"
+            id="0x127"/>
+        <almldb
+            file="LTlsUN_xt9_ALM3.ldb"
+            id="0x127"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Macedonian">
+        <ldb
+            file="MKlsUN_xt9_MLM.ldb"
+            id="0x12f"/>
+        <almldb
+            file="MKlsUN_xt9_ALM3.ldb"
+            id="0x12f"/>
+    </language>
+    <language name="Maithili">
+        <ldb
+            file="MAIlsUN_xt9.ldb"
+            id="0x1a2"/>
+    </language>
+    <language name="Malay">
+        <ldb
+            file="MSlbUN_xt9_MLM.ldb"
+            id="0x13e"/>
+        <almldb
+            file="MSlbUN_xt9_ALM3.ldb"
+            id="0x13e"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Malayalam">
+        <ldb
+            file="MLlsUN_xt9_MLM.ldb"
+            id="0x16a"/>
+        <almldb
+            file="MLlsUN_xt9_ALM3.ldb"
+            id="0x16a"/>
+    </language>
+    <language name="Manipuri">
+        <ldb
+            file="MNIlsUN_xt9.ldb"
+            id="0x1a3"/>
+    </language>
+    <language name="Marathi">
+        <ldb
+            file="MRlsUN_xt9_MLM.ldb"
+            id="0x16d"/>
+        <almldb
+            file="MRlsUN_xt9_ALM3.ldb"
+            id="0x16d"/>
+    </language>
+    <language name="Nepali">
+        <ldb
+            file="NElsUN_xt9_MLM.ldb"
+            id="0x170"/>
+        <almldb
+            file="NElsUN_xt9_ALM3.ldb"
+            id="0x170"/>
+    </language>
+    <language name="Norwegian">
+        <ldb
+            file="NOusUN_xt9_MLM.ldb"
+            id="0x114"/>
+        <almldb
+            file="NOusUN_xt9_ALM3.ldb"
+            id="0x114"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Oriya">
+        <ldb
+            file="ORlsUN_xt9_MLM.ldb"
+            id="0x173"/>
+        <almldb
+            file="ORlsUN_xt9_ALM3.ldb"
+            id="0x173"/>
+    </language>
+    <language name="Polish">
+        <ldb
+            file="PLusUN_xt9_MLM.ldb"
+            id="0x115"/>
+        <almldb
+            file="PLusUN_xt9_ALM3.ldb"
+            id="0x115"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Portuguese">
+        <ldb
+            file="PTusUN_xt9_MLM.ldb"
+            id="0x116"/>
+        <almldb
+            file="PTusUN_xt9_ALM3.ldb"
+            id="0x116"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Portuguese_BR">
+        <ldb
+            file="PTusUNBR_xt9_MLM.ldb"
+            id="0x916"/>
+        <almldb
+            file="PTusUNBR_xt9_ALM3.ldb"
+            id="0x916"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Portuguese_PT">
+        <ldb
+            file="PTusUNPT_xt9_MLM.ldb"
+            id="0x816"/>
+        <almldb
+            file="PTusUNPT_xt9_ALM3.ldb"
+            id="0x816"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Punjabi">
+        <ldb
+            file="PAlsUN_xt9_MLM.ldb"
+            id="0x174"/>
+        <almldb
+            file="PAlsUN_xt9_ALM3.ldb"
+            id="0x174"/>
+    </language>
+    <language name="Romanian">
+        <ldb
+            file="ROlsUN_xt9_MLM.ldb"
+            id="0x118"/>
+        <almldb
+            file="ROlsUN_xt9_ALM3.ldb"
+            id="0x118"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Russian">
+        <ldb
+            file="RUusUN_xt9_MLM.ldb"
+            id="0x119"/>
+        <almldb
+            file="RUusUN_xt9_ALM3.ldb"
+            id="0x119"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Sanskrit">
+        <ldb
+            file="SAlsUN_xt9_MLM.ldb"
+            id="0x179"/>
+        <almldb
+            file="SAlsUN_xt9_ALM3.ldb"
+            id="0x179"/>
+    </language>
+    <language name="SantaliDevanagari">
+        <ldb
+            file="SATlsUNdevanagari_xt9.ldb"
+            id="0x23a4"/>
+    </language>
+    <language name="Serbian">
+        <ldb
+            file="SRlsUN_xt9_MLM.ldb"
+            id="0x180"/>
+        <almldb
+            file="SRlsUN_xt9_ALM3.ldb"
+            id="0x180"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Sesotho">
+        <ldb
+            file="STlbUN_xt9_2.ldb"
+            id="0x182"/>
+    </language>
+    <language name="SindhiDevanagari">
+        <ldb
+            file="SDlsUNdevanagari_xt9.ldb"
+            id="0x237a"/>
+    </language>
+    <language name="Sinhala">
+        <ldb
+            file="SIlsUNAlternate_xt9_MLM.ldb"
+            id="0x17c"/>
+        <almldb
+            file="SIlsUNAlternate_xt9_ALM3.ldb"
+            id="0x17c"/>
+    </language>
+    <language name="Slovak">
+        <ldb
+            file="SKlsUN_xt9_MLM.ldb"
+            id="0x11b"/>
+        <almldb
+            file="SKlsUN_xt9_ALM3.ldb"
+            id="0x11b"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Slovenian">
+        <ldb
+            file="SLlsUN_xt9_MLM.ldb"
+            id="0x124"/>
+        <almldb
+            file="SLlsUN_xt9_ALM3.ldb"
+            id="0x124"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Spanish">
+        <ldb
+            file="ESusUN_xt9_MLM.ldb"
+            id="0x10a"/>
+        <almldb
+            file="ESusUN_xt9_ALM3.ldb"
+            id="0x10a"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Spanish_ES">
+        <ldb
+            file="ESusUNES_xt9_MLM.ldb"
+            id="0x90a"/>
+        <almldb
+            file="ESusUNES_xt9_ALM3.ldb"
+            id="0x90a"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Spanish_Latam">
+        <ldb
+            file="ESusUNlatam_xt9_MLM.ldb"
+            id="0x80a"/>
+        <almldb
+            file="ESusUNlatam_xt9_ALM3.ldb"
+            id="0x80a"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Sundanese">
+        <ldb
+            file="SUlsUN_xt9_MLM.ldb"
+            id="0x199"/>
+        <almldb
+            file="SUlsUN_xt9_ALM3.ldb"
+            id="0x199"/>
+    </language>
+    <language name="Swahili">
+        <ldb
+            file="SWlbUN_xt9_MLM.ldb"
+            id="0x141"/>
+        <almldb
+            file="SWlbUN_xt9_ALM3.ldb"
+            id="0x141"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Swedish">
+        <ldb
+            file="SVusUN_xt9_MLM.ldb"
+            id="0x11d"/>
+        <almldb
+            file="SVusUN_xt9_ALM3.ldb"
+            id="0x11d"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Tagalog">
+        <ldb
+            file="TLlsUN_xt9_MLM.ldb"
+            id="0x189"/>
+        <almldb
+            file="TLlsUN_xt9_ALM3.ldb"
+            id="0x189"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Tamil">
+        <ldb
+            file="TAlsUN_xt9_MLM.ldb"
+            id="0x184"/>
+        <almldb
+            file="TAlsUN_xt9_ALM3.ldb"
+            id="0x184"/>
+    </language>
+    <language name="TatarCyrillic">
+        <ldb
+            file="TTlsUNcyrillic_xt9_MLM.ldb"
+            id="0x218c"/>
+        <almldb
+            file="TTlsUNcyrillic_xt9_ALM3.ldb"
+            id="0x218c"/>
+    </language>
+    <language name="Telugu">
+        <ldb
+            file="TElsUN_xt9_MLM.ldb"
+            id="0x185"/>
+        <almldb
+            file="TElsUN_xt9_ALM3.ldb"
+            id="0x185"/>
+    </language>
+    <language name="Thai">
+        <ldb
+            file="THlsUN_xt9_MLM.ldb"
+            id="0x11e"/>
+        <almldb
+            file="THlsUN_xt9_ALM3.ldb"
+            id="0x11e"/>
+        <hdb
+            file="thai.hdb"
+            id="0x11e"/>
+    </language>
+    <language name="Tibetan">
+        <ldb
+            file="BOlsUN_xt9_2.ldb"
+            id="0x14c"/>
+    </language>
+    <language name="Turkish">
+        <ldb
+            file="TRlsUN_xt9_HC_MLM.ldb"
+            id="0x11f"/>
+        <almldb
+            file="TRlsUN_xt9_HC_ALM3.ldb"
+            id="0x11f"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Ukrainian">
+        <ldb
+            file="UKlsUN_xt9_MLM.ldb"
+            id="0x122"/>
+        <almldb
+            file="UKlsUN_xt9_ALM3.ldb"
+            id="0x122"/>
+        <hdb
+            file="database_le.dat"
+            id="0x1ff"/>
+    </language>
+    <language name="Urdu">
+        <ldb
+            file="URlsUN_xt9_MLM.ldb"
+            id="0x120"/>
+        <almldb
+            file="URlsUN_xt9_ALM3.ldb"
+            id="0x120"/>
+        <hdb
+            file="arabic.hdb"
+            id="0x120"/>
+    </language>
+    <language name="Uyghur">
+        <ldb
+            file="UGlsUN_xt9_MLM.ldb"
+            id="0x18e"/>
+        <almldb
+            file="UGlsUN_xt9_ALM3.ldb"
+            id="0x18e"/>
+    </language>
+    <language name="UzbekLatin">
+        <ldb
+            file="UZlsUNlatin_xt9_MLM.ldb"
+            id="0x1c2"/>
+        <almldb
+            file="UZlsUNlatin_xt9_ALM3.ldb"
+            id="0x1c2"/>
+    </language>
+    <language name="Vietnamese">
+        <ldb
+            file="VIlsUN_xt9_MLM.ldb"
+            id="0x12a"/>
+        <almldb
+            file="VIlsUN_xt9_ALM3.ldb"
+            id="0x12a"/>
+    </language>
+    <language name="Xhosa">
+        <ldb
+            file="XHlbUN_xt9_MLM.ldb"
+            id="0x134"/>
+        <almldb
+            file="XHlbUN_xt9_ALM3.ldb"
+            id="0x134"/>
+    </language>
+    <language name="Zulu">
+        <ldb
+            file="ZUlbUN_xt9_MLM.ldb"
+            id="0x135"/>
+        <almldb
+            file="ZUlbUN_xt9_ALM3.ldb"
+            id="0x135"/>
+    </language>
+</languagefiles>

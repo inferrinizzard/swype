@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nuance.swype.input.japanese.JapaneseHandWritingContainerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/japanese_handwriting_container"
+    android:background="?attr/keyboardBackgroundHwrContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <FrameLayout
+        android:id="@+id/japanese_handwriting_area"
+        android:paddingTop="0dp"
+        android:paddingBottom="-1dp"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/cjk_hwr_pad_height"/>
+    <FrameLayout
+        android:id="@+id/japanese_handwriting_key_area"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</com.nuance.swype.input.japanese.JapaneseHandWritingContainerView>

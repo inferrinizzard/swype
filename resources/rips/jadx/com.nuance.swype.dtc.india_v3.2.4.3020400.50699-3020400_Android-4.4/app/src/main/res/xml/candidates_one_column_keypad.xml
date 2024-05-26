@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CandidatesKeyboardEx xmlns:ns="http://schemas.android.com/apk/res-auto"
+    ns:keyWidth="100%p"
+    ns:keyHeight="20%p"
+    ns:horizontalGap="0px"
+    ns:verticalGap="0px">
+    <Row>
+        <Key ns:keyLabel=""/>
+    </Row>
+    <Row>
+        <Key ns:keyLabel=""/>
+    </Row>
+    <Row>
+        <Key ns:keyLabel=""/>
+    </Row>
+    <Row>
+        <Key ns:keyLabel=""/>
+    </Row>
+    <Row ns:rowEdgeFlags="bottom">
+        <Key ns:keyLabel=""/>
+    </Row>
+</CandidatesKeyboardEx>

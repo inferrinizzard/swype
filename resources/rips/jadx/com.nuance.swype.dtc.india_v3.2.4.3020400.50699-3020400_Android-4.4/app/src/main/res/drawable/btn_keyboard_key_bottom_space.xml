@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item>
+                <nine-patch android:src="?attr/btnKeyboardKeyPressedBottomSpace"/>
+            </item>
+            <item
+                android:left="?attr/glowStretch"
+                android:top="?attr/glowStretch"
+                android:right="?attr/glowStretch"
+                android:bottom="?attr/glowStretch">
+                <bitmap android:src="?attr/glow"/>
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <nine-patch android:src="?attr/btnKeyboardKeyNormalBottomSpace"/>
+    </item>
+</selector>
